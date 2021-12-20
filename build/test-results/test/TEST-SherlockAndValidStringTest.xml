@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SherlockAndValidStringTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-12-02T20:42:19" hostname="Egors-MacBook-Pro.local" time="0.028">
+  <properties/>
+  <testcase name="isValid1()" classname="SherlockAndValidStringTest" time="0.01"/>
+  <testcase name="isValid2()" classname="SherlockAndValidStringTest" time="0.0"/>
+  <testcase name="isValid3()" classname="SherlockAndValidStringTest" time="0.0"/>
+  <testcase name="isValid4()" classname="SherlockAndValidStringTest" time="0.0"/>
+  <testcase name="isValid5()" classname="SherlockAndValidStringTest" time="0.0"/>
+  <testcase name="isValid7()" classname="SherlockAndValidStringTest" time="0.011"/>
+  <testcase name="isValid5_1()" classname="SherlockAndValidStringTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
